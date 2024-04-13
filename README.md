@@ -1,4 +1,4 @@
-# MLM - Project1_Supervised_Learning
+# MLM - Project2_Supervised_Learning
 
 Machine Learning data:  Supply Chain Dataset
 
